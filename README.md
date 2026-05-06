@@ -1,31 +1,31 @@
 <div align="center">
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Riya+%F0%9F%91%8B;AI+%26+CV+Engineer;Builder+of+Futuristic+Things" alt="Typing SVG" />
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=30&pause=1000&color=B5A8D5&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Riya+%F0%9F%91%8B;Builder+of+Futuristic+Things;AI+%26+Computer+Vision+Engineer" alt="Typing SVG" />
 
-<p>
-  <img src="https://img.shields.io/badge/2nd%20Year%20CSE-MIT%20Bengaluru-6C63FF?style=for-the-badge&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20To-Opportunities-00C896?style=for-the-badge&logo=handshake&logoColor=white" />
-</p>
+<br/>
 
-<p><em>⚡ I like projects that feel futuristic — and then building them</em></p>
+<img src="https://img.shields.io/badge/2nd%20Year%20CSE-MIT%20Bengaluru-B5A8D5?style=for-the-badge&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20To-Opportunities-A8D5BA?style=for-the-badge&logo=handshake&logoColor=white" />
+
+<br/><br/>
+
+<p><i>✨ I like projects that feel futuristic — and then building them</i></p>
 
 </div>
 
 ---
 
-<h2>🧠 About Me</h2>
+<h2 align="center">🌸 About Me</h2>
 
-<table>
+<table align="center">
 <tr>
 <td width="50%">
 
-🎓 **2nd year CSE** @ MIT Bengaluru  
-🌊 **Currently building** — Coastal Erosion Monitoring ML  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ bi-temporal satellite imagery pipeline  
-🖐️ **Created** — Gesture-Controlled Virtual Mouse  
+🎓 **2nd year CSE** @ MIT Bengaluru
+🌊 **Currently building** — Coastal Erosion Monitoring ML
+&nbsp;&nbsp;&nbsp;&nbsp;↳ bi-temporal satellite imagery pipeline
+🖐️ **Created** — Gesture-Controlled Virtual Mouse
 🤖 Passionate about **AI, ML & automation**
 
 </td>
@@ -44,7 +44,7 @@
 
 ---
 
-<h2>🚀 Featured Projects</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
 <table>
 <tr>
@@ -53,8 +53,8 @@
 ### 🖐️ Virtual Mouse
 > *Control your entire system with hand gestures*
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-C3B8E8?style=flat&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-A8D5BA?style=flat&logoColor=white)
 
 - Real-time cursor, clicks, scroll
 - Volume & brightness control
@@ -66,8 +66,8 @@
 ### 🌊 Coastal Erosion Monitoring
 > *Deep learning on satellite imagery*
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-F2C4C4?style=flat&logoColor=white)
+![Python](https://img.shields.io/badge/Python-B5A8D5?style=flat&logoColor=white)
 
 - Bi-temporal image pipeline
 - Training & validation tuning
@@ -81,8 +81,8 @@
 ### 💰 DhanGuru
 > *Personal finance tracker with insights*
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-A8D5D1?style=flat&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-A8D5BA?style=flat&logoColor=white)
 
 - Track expenses & patterns
 - Smart spending analytics
@@ -93,8 +93,8 @@
 ### 🏥 MediQ Health Tracker
 > *AI-powered health analytics*
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![React](https://img.shields.io/badge/React-A8D5D1?style=flat&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-F2C4C4?style=flat&logoColor=white)
 
 - Analyze health data
 - Actionable AI insights
@@ -105,53 +105,61 @@
 
 ---
 
-<h2>🛠️ Tech Stack</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<div align="center">
 
 <h4>Languages</h4>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-B5A8D5?style=for-the-badge&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F2D7A8?style=for-the-badge&logoColor=white)
+![C++](https://img.shields.io/badge/C++-A8C4D5?style=for-the-badge&logoColor=white)
 
 <h4>AI / ML</h4>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-F2C4C4?style=for-the-badge&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-F2D7A8?style=for-the-badge&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-C3B8E8?style=for-the-badge&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-A8D5BA?style=for-the-badge&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-A8D5D1?style=for-the-badge&logoColor=white)
 
 <h4>Web & Tools</h4>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-A8D5D1?style=for-the-badge&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-A8D5BA?style=for-the-badge&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-F2C4C4?style=for-the-badge&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-A8C4D5?style=for-the-badge&logoColor=white)
+
+</div>
 
 ---
 
-<h2>🎯 Goals</h2>
+<h2 align="center">🎯 Goals</h2>
+
+<div align="center">
 
 | | |
-|---|---|
+|:---:|:---|
 | 🚀 | Build high-impact AI projects |
 | 🌍 | Contribute to open source |
 | 💼 | Land strong internships |
 
+</div>
+
 ---
 
-<h2>🤝 Connect With Me</h2>
+<h2 align="center">🤝 Connect With Me</h2>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Riya%20Varda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riya-varda-739180333)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Riya%20Varda-B5A8D5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riya-varda-739180333)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-riya.varda29%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riya.varda29@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-riya.varda29%40gmail.com-F2C4C4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riya.varda29@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>💡 <strong>I enjoy turning ideas into real, usable things — especially ones that feel a little bit like the future.</strong></sub>
+  <sub>💡 <b>I enjoy turning ideas into real, usable things — especially ones that feel a little bit like the future.</b></sub>
 </div>
